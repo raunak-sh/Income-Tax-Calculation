@@ -5,6 +5,7 @@ def DisplayStaticInfo():
                       Welcome to
               Salary & Tax Calculate System(STCS)""")
     print(heading)
+    
 DisplayStaticInfo()
 
 #creating list
