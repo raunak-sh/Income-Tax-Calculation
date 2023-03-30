@@ -14,8 +14,11 @@ This is a Python program that allows you to calculate the salary and tax of the 
 ## Program functions
 DisplayStaticInfo(): This function displays a welcome message with the name and location of the department.
 
-StaffInfo(): This function allows the user to input the details of staff members such as name, address, email, PAN, marital status and financial year. It returns a dictionary containing the staff data.
+### StaffInfo(): 
+This function allows the user to input the details of staff members such as name, address, email, PAN, marital status and financial year. It returns a dictionary containing the staff data.
 
-Calculate_Tax_Of_Staff(staff_data): This function takes the staff data as input and calculates the tax amount for each staff member based on their annual income. It returns a dictionary containing the staff data with added tax information.
+### Calculate_Tax_Of_Staff(staff_data): 
+This function takes the staff data as input and calculates the tax amount for each staff member based on their annual income. It returns a dictionary containing the staff data with added tax information.
 
-FinalDispalay(staff_data): This function takes the staff data as input and displays the details of each staff member including their name, address, email, PAN, marital status, annual income and payable tax amount.
+### FinalDispalay(staff_data): 
+This function takes the staff data as input and displays the details of each staff member including their name, address, email, PAN, marital status, annual income and payable tax amount.
